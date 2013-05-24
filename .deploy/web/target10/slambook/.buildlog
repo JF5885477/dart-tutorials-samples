@@ -1,0 +1,205 @@
+---
+build.dart --machine --changed=bin/slambookserver.dart --changed=pubspec.lock --changed=pubspec.yaml --changed=...
+[{"method":"mapping","params":{"from":"web/slambook.html","to":"web/out/slambook.html"}}]
+Total time spent on web/slambook.html                        -- 644 ms
+Total time                                                   -- 688 ms
+build.dart finished [1390 ms]
+
+---
+build.dart --machine --changed=web/out/slambook.css --changed=web/out/slambook.dart --changed=web/out/slambook....
+Total time                                                   --  37 ms
+build.dart finished [657 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+Total time                                                   --  44 ms
+build.dart finished [680 ms]
+
+---
+build.dart --machine --changed=web/out/slambook.css --changed=web/out/slambook.dart --changed=web/out/slambook....
+Total time                                                   --  27 ms
+build.dart finished [580 ms]
+
+---
+build.dart --machine --changed=web/xslambookform.html
+[{"method":"mapping","params":{"from":"web/slambook.html","to":"web/out/slambook.html"}}]
+Total time spent on web/slambook.html                        -- 412 ms
+Total time                                                   -- 442 ms
+build.dart finished [914 ms]
+
+---
+build.dart --machine --changed=web/out/slambook.css --changed=web/out/slambook.dart --changed=web/out/slambook....
+Total time                                                   --  26 ms
+build.dart finished [509 ms]
+
+---
+build.dart --machine --changed=web/xslambookform.html
+[{"method":"mapping","params":{"from":"web/slambook.html","to":"web/out/slambook.html"}}]
+Total time spent on web/slambook.html                        -- 382 ms
+Total time                                                   -- 411 ms
+build.dart finished [878 ms]
+
+---
+build.dart --machine --changed=web/out/slambook.css --changed=web/out/slambook.dart --changed=web/out/slambook....
+Total time                                                   --  27 ms
+build.dart finished [531 ms]
+
+---
+build.dart --machine --changed=web/xslambookform.html
+[{"method":"mapping","params":{"from":"web/slambook.html","to":"web/out/slambook.html"}}]
+Total time spent on web/slambook.html                        -- 383 ms
+Total time                                                   -- 412 ms
+build.dart finished [879 ms]
+
+---
+build.dart --machine --changed=web/out/slambook.css --changed=web/out/slambook.dart --changed=web/out/slambook....
+Total time                                                   --  25 ms
+build.dart finished [504 ms]
+
+---
+build.dart --machine --changed=web/xslambookform.html
+[{"method":"mapping","params":{"from":"web/slambook.html","to":"web/out/slambook.html"}}]
+[{"method":"warning","params":{"file":"web/xslambookform.html","message":"Unexpected character after attribute value.","line":49,"charStart":1748,"charEnd":1853}}]
+[{"method":"warning","params":{"file":"web/xslambookform.html","message":"Invalid character in attribute name","line":49,"charStart":1748,"charEnd":1860}}]
+[{"method":"warning","params":{"file":"web/xslambookform.html","message":"Unexpected end tag (label). Ignored.","line":50,"charStart":1868,"charEnd":1876}}]
+[{"method":"warning","params":{"file":"web/xslambookform.html","message":"Unexpected end tag (label). Ignored.","line":51,"charStart":1960,"charEnd":1968}}]
+[{"method":"warning","params":{"file":"web/xslambookform.html","message":"Unexpected end tag (label). Ignored.","line":52,"charStart":2048,"charEnd":2056}}]
+[{"method":"warning","params":{"file":"web/xslambookform.html","message":"Unexpected end tag (label). Ignored.","line":53,"charStart":2136,"charEnd":2144}}]
+Total time spent on web/slambook.html                        -- 393 ms
+Total time                                                   -- 421 ms
+build.dart finished [898 ms]
+
+---
+build.dart --machine --changed=web/out/slambook.css --changed=web/out/slambook.dart --changed=web/out/slambook....
+Total time                                                   --  25 ms
+build.dart finished [493 ms]
+
+---
+build.dart --machine --changed=web/xslambookform.html
+[{"method":"mapping","params":{"from":"web/slambook.html","to":"web/out/slambook.html"}}]
+[{"method":"warning","params":{"file":"web/xslambookform.html","message":"Unexpected end tag (label). Ignored.","line":51,"charStart":1961,"charEnd":1969}}]
+[{"method":"warning","params":{"file":"web/xslambookform.html","message":"Unexpected end tag (label). Ignored.","line":52,"charStart":2049,"charEnd":2057}}]
+[{"method":"warning","params":{"file":"web/xslambookform.html","message":"Unexpected end tag (label). Ignored.","line":53,"charStart":2137,"charEnd":2145}}]
+Total time spent on web/slambook.html                        -- 386 ms
+Total time                                                   -- 415 ms
+build.dart finished [885 ms]
+
+---
+build.dart --machine --changed=web/out/slambook.css --changed=web/out/slambook.dart --changed=web/out/slambook....
+Total time                                                   --  26 ms
+build.dart finished [497 ms]
+
+---
+build.dart --machine --changed=web/xslambookform.html
+[{"method":"mapping","params":{"from":"web/slambook.html","to":"web/out/slambook.html"}}]
+Total time spent on web/slambook.html                        -- 381 ms
+Total time                                                   -- 410 ms
+build.dart finished [883 ms]
+
+---
+build.dart --machine --changed=web/out/slambook.css --changed=web/out/slambook.dart --changed=web/out/slambook....
+Total time                                                   --  25 ms
+build.dart finished [488 ms]
+
+---
+build.dart --machine --changed=web/xslambookform.html
+[{"method":"mapping","params":{"from":"web/slambook.html","to":"web/out/slambook.html"}}]
+Total time spent on web/slambook.html                        -- 386 ms
+Total time                                                   -- 415 ms
+build.dart finished [882 ms]
+
+---
+build.dart --machine --changed=web/out/slambook.css --changed=web/out/slambook.dart --changed=web/out/slambook....
+Total time                                                   --  26 ms
+build.dart finished [486 ms]
+
+---
+build.dart --machine --changed=web/xslambookform.html
+[{"method":"mapping","params":{"from":"web/slambook.html","to":"web/out/slambook.html"}}]
+Total time spent on web/slambook.html                        -- 380 ms
+Total time                                                   -- 409 ms
+build.dart finished [866 ms]
+
+---
+build.dart --machine --changed=web/out/slambook.css --changed=web/out/slambook.dart --changed=web/out/slambook....
+Total time                                                   --  24 ms
+build.dart finished [491 ms]
+
+---
+build.dart --machine --changed=web/xslambookform.html
+[{"method":"mapping","params":{"from":"web/slambook.html","to":"web/out/slambook.html"}}]
+Total time spent on web/slambook.html                        -- 386 ms
+Total time                                                   -- 416 ms
+build.dart finished [890 ms]
+
+---
+build.dart --machine --changed=web/out/slambook.css --changed=web/out/slambook.dart --changed=web/out/slambook....
+Total time                                                   --  27 ms
+build.dart finished [495 ms]
+
+---
+build.dart --machine --changed=web/slambook.css
+Total time                                                   --  24 ms
+build.dart finished [490 ms]
+
+---
+build.dart --machine --changed=web/slambook.css
+Total time                                                   --  25 ms
+build.dart finished [497 ms]
+
+---
+build.dart --machine --changed=web/xslambookform.html
+[{"method":"mapping","params":{"from":"web/slambook.html","to":"web/out/slambook.html"}}]
+Total time spent on web/slambook.html                        -- 385 ms
+Total time                                                   -- 414 ms
+build.dart finished [881 ms]
+
+---
+build.dart --machine --changed=web/out/slambook.css --changed=web/out/slambook.dart --changed=web/out/slambook....
+Total time                                                   --  24 ms
+build.dart finished [531 ms]
+
+---
+build.dart --machine --changed=web/xslambookform.html
+[{"method":"mapping","params":{"from":"web/slambook.html","to":"web/out/slambook.html"}}]
+Total time spent on web/slambook.html                        -- 386 ms
+Total time                                                   -- 417 ms
+build.dart finished [886 ms]
+
+---
+build.dart --machine --changed=web/out/slambook.css --changed=web/out/slambook.dart --changed=web/out/slambook....
+Total time                                                   --  25 ms
+build.dart finished [497 ms]
+
+---
+build.dart --machine --changed=web/slambook.css
+Total time                                                   --  24 ms
+build.dart finished [490 ms]
+
+---
+build.dart --machine --changed=web/slambook.css
+Total time                                                   --  24 ms
+build.dart finished [489 ms]
+
+---
+build.dart --machine --changed=web/slambook.css
+Total time                                                   --  24 ms
+build.dart finished [489 ms]
+
+---
+build.dart --machine --changed=web/slambook.css
+Total time                                                   --  23 ms
+build.dart finished [494 ms]
+
+---
+build.dart --machine --changed=web/xslambookform.html
+[{"method":"mapping","params":{"from":"web/slambook.html","to":"web/out/slambook.html"}}]
+Total time spent on web/slambook.html                        -- 387 ms
+Total time                                                   -- 416 ms
+build.dart finished [887 ms]
+
+---
+build.dart --machine --changed=web/out/slambook.css --changed=web/out/slambook.dart --changed=web/out/slambook....
+Total time                                                   --  27 ms
+build.dart finished [491 ms]
+

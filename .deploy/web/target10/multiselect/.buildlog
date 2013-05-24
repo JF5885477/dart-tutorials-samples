@@ -1,0 +1,12 @@
+---
+build.dart --machine --changed=pubspec.lock --changed=pubspec.yaml --changed=web/multiselect.css --changed=web/...
+[{"method":"mapping","params":{"from":"web/multiselect.html","to":"web/out/multiselect.html"}}]
+Total time spent on web/multiselect.html                     -- 438 ms
+Total time                                                   -- 480 ms
+build.dart finished [1219 ms]
+
+---
+build.dart --machine --changed=web/out/multiselect.css --changed=web/out/multiselect.dart --changed=web/out/mul...
+Total time                                                   --  34 ms
+build.dart finished [656 ms]
+
